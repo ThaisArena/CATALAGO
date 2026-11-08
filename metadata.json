@@ -2,5 +2,7 @@
   "name": "Thalin Confecções - Catálogo de Produtos",
   "description": "Catálogo minimalista e elegante para venda de camisetas e uniformes personalizados da Thalin Confecções com pedidos via WhatsApp.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
